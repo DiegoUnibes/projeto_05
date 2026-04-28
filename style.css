@@ -1,0 +1,37 @@
+body{background-color: rgba(57, 87, 92, 0.966);
+margin: 0%;}
+
+#menu{
+background-color: rgb(65, 65, 129);
+width: 300px;
+height: 700px;
+text-align: center;
+ box-shadow: 15px 15px 1px rgb(31, 255, 150);
+ border-radius: 20%;
+}
+
+
+a{  text-decoration: none;
+color: rgb(0, 0, 0) ;
+
+}
+
+
+.imagem{
+    border-radius:50%;
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border: 4px; border-style: dashed; border-color rgb(83, 25, 138); margin-top 40px;
+    box-shadow: 5px 5px 5px rgba(62, 158, 113, 0.822);
+}
+h1{
+  color: rgb(65, 160, 177);  
+   
+}
+h2{
+   font-family:  Chiller;
+   font-size: 1.7rem;
+   color: rgb(58, 182, 78)
+  
+}
